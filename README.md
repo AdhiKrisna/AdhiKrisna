@@ -16,7 +16,7 @@ I'm passionate about machine learning and mobile development and always eager to
 
 ---
 
-## 🌐📫 How to reach me: ...
+## 🌐📫 Reach Me : 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhi-krisna-8b5b07246/)
 [![Email](https://img.shields.io/badge/Email-krisnahmbtn@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krisnahmbtn@gmail.com)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/krisnavidyatma/)
