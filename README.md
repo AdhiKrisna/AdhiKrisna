@@ -1,9 +1,9 @@
 ## 👋  Hi there, I'm Made Vidyatma Adhi Krisna, also known as "Adhi Krisna", currently as a Bachelor's Informatics Undergraduate Student at UPN "Veteran Yogyakarta".
 🌱 I'm actively learning Machine Learning and Artificial Intelligence (AI), delving into the potential of AI to develop intelligent and innovative systems.
 
-🔭 I'm working on an exciting mobile e-book project called "Tarali", which integrates advanced AI technologies. While the project is currently private due to API key restrictions, I can't wait to share more about it once it's ready for public release.
+🔭 I'm currently working on an exciting mobile e-book project called "Tarali", which integrates advanced AI technologies. While the project is currently private due to API key restrictions, I can't wait to share more about it once it's ready for public release.
 
-
+---
 
 ## 🧑‍🎓 About Me:
 I have hands-on experience as a laboratory assistant in various practicums, including:
@@ -18,7 +18,8 @@ I'm passionate about machine learning and mobile development and always eager to
 
 ## 🌐📫 How to reach me: ...
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhi-krisna-8b5b07246/)
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krisnahmbtn@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/krisnavidyatma/)
 ---
 
 ## 💻 Tech Stack:
