@@ -1,7 +1,7 @@
 ## 👋  Hi there, I'm Made Vidyatma Adhi Krisna, also known as "Adhi Krisna", currently as a Bachelor's Informatics Undergraduate Student at UPN "Veteran Yogyakarta".
 🌱 I'm actively learning Machine Learning and Artificial Intelligence (AI), delving into the potential of AI to develop intelligent and innovative systems.
 
-🔭 I'm currently working on an exciting mobile e-book project called "Tarali", which integrates advanced AI technologies. While the project is currently private due to API key restrictions, I can't wait to share more about it once it's ready for public release.
+🔭 !I'm currently working on an exciting mobile e-book project called "Tarali", which integrates advanced AI technologies. While the project is currently private due to API key restrictions, I can't wait to share more about it once it's ready for public release.
 
 ---
 
