@@ -3,7 +3,7 @@
 # 🌐📫 Reach Me : 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhi-krisna-8b5b07246/)<br>[![Email](https://img.shields.io/badge/Email-krisnahmbtn@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krisnahmbtn@gmail.com)<br>[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/krisnavidyatma/)
 # 😄 Pronouns:
-He/Him <br>
+## He/Him <br>
 ⚡ Fun fact: I always excited to share my experiences, sometimes gonna be oversharing tho :"), and I'm also interested in doing any teamwork especially to make some interesting unique things.
 
 <!--<br>**AdhiKrisna/AdhiKrisna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br><br>Here are some ideas to get you started:<br><br><br>- 👯 I’m looking to collaborate on ...<br>- 🤔 I’m looking for help with ...<br>- 💬 Ask me about ...<br><br>--><br>
