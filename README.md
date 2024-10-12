@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=AdhiKrisna&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![]("Code is like a life, should be simple and clear — because when you have to explain too much, you might be missing the beauty of what’s happening right in front of you")
+(“Code is like life, it should be simple and clear — because when you have to explain too much, you might be missing the beauty of what’s happening right in front of you.” ***- Anonymous*")
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AdhiKrisna&limit=5&theme=dark&combine_all_yearly_contributions=true)
