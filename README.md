@@ -18,7 +18,7 @@
 ### ✍️ Random Dev Quote
 > **“Code is like life, it should be simple and clear — because when you have to explain too much, you might be missing the beauty of what’s happening right in front of you.”**
 >
-> *- Anonymous*
+> *- AK'24*
 
 
 ### 🔝 Top Contributed Repo
